@@ -1,6 +1,5 @@
-<p align="center">
+
     <h1>Digital-clock</h1>
-</p>
 
 
 
